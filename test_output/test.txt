@@ -1,0 +1,26 @@
+/Users/elw_accounts_access/anaconda/envs/python2/lib/python2.7/site-packages/matplotlib/font_manager.py:273: UserWarning: Matplotlib is building the font cache using fc-list. This may take a moment.
+  warnings.warn('Matplotlib is building the font cache using fc-list. This may take a moment.')
+Time to read matter power data = 0:00:00.012674
+Time to read cosmology parameters = 0:00:00.000900
+Finding minimum r_parallel
+/Users/elw_accounts_access/anaconda/envs/python2/lib/python2.7/site-packages/hankel.py:56: RuntimeWarning: overflow encountered in sinh
+  a = (np.pi * t * np.cosh(t) + np.sinh(np.pi * np.sinh(t))) / (1.0 + np.cosh(np.pi * np.sinh(t)))
+/Users/elw_accounts_access/anaconda/envs/python2/lib/python2.7/site-packages/hankel.py:56: RuntimeWarning: overflow encountered in cosh
+  a = (np.pi * t * np.cosh(t) + np.sinh(np.pi * np.sinh(t))) / (1.0 + np.cosh(np.pi * np.sinh(t)))
+/Users/elw_accounts_access/anaconda/envs/python2/lib/python2.7/site-packages/hankel.py:56: RuntimeWarning: invalid value encountered in divide
+  a = (np.pi * t * np.cosh(t) + np.sinh(np.pi * np.sinh(t))) / (1.0 + np.cosh(np.pi * np.sinh(t)))
+/Users/work/GitHub/code_share2/xi_mm_funcs_v5.py:60: RuntimeWarning: divide by zero encountered in double_scalars
+  one_over_mup = np.nan_to_num(1./mup)
+/Users/work/GitHub/code_share2/xi_mm_funcs_v5.py:63: RuntimeWarning: overflow encountered in multiply
+  sigmar*one_over_rp*mu*one_over_mup*x, 2))*Pk(x*one_over_rp*one_over_mup)*\
+/Users/work/GitHub/code_share2/xi_mm_funcs_v5.py:63: RuntimeWarning: overflow encountered in power
+  sigmar*one_over_rp*mu*one_over_mup*x, 2))*Pk(x*one_over_rp*one_over_mup)*\
+/Users/work/GitHub/code_share2/xi_mm_funcs_v5.py:63: RuntimeWarning: invalid value encountered in cos
+  sigmar*one_over_rp*mu*one_over_mup*x, 2))*Pk(x*one_over_rp*one_over_mup)*\
+/Users/work/GitHub/code_share2/xi_mm_funcs_v5.py:63: RuntimeWarning: overflow encountered in double_scalars
+  sigmar*one_over_rp*mu*one_over_mup*x, 2))*Pk(x*one_over_rp*one_over_mup)*\
+Time to compute grid for minimum r_parallel = 0:26:42.109983
+Time to make plot for minimum r_parallel = 0:26:43.376977
+Finding maximum r_parallel
+Time to compute grid for maximum r_parallel = 2:16:50.707373
+Time to make plot for maximum r_parallel = 2:16:52.986396
