@@ -2,7 +2,7 @@
 Code for second group code share
 
 ## To run with default options
-This call will reproduce the included test results. Simply replace **save_dir** with the directory in which to save the output.
+This call will reproduce the included test results. Simply replace `**save_dir**` with the directory in which to save the output.
 
 `python xi_mm_los_v3.1.py ./matter_power_nl default_cosmology.ini **save_dir**`
 
